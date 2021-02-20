@@ -23,7 +23,8 @@ lorem ipsum dolor asmet todo la ponte melegrame
 - [ ] [raspberry device - qrcode viewer]()
 
 #### User Manual
-- [ ] [Back-Office]()
+- [ ] [BackOffice]()
 - [ ] [Android]()
 - [ ] [iOs]()
+- [ ] [Raspberry pi]()
 
