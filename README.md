@@ -2,7 +2,7 @@
 
 Application Release Binaries and Public Documentations
 
-## Relase (Current)
+## Release (Current)
 - [ ] [Mobile Platform - Android]()
 - [ ] [Mobile Platform - iOs]()
 - [ ] [Desktop Platform - Armv7 (Raspberry Pi)]()
