@@ -1,26 +1,20 @@
 # distribution & packaging
 
-Application Release Binaries and Public Documentations
+Application Release 
 
 ## Release (Current)
 - [ ] [Mobile Platform - Android]()
 - [ ] [Mobile Platform - iOs]()
-- [ ] [Desktop Platform - Armv7 (Raspberry Pi)]()
+- [ ] [Desktop Platform - Armv7 (Raspbian)]()
+- [ ] [Desktop Platform - x86 (Linux)]()
+- [ ] [Desktop Platform - x86 (Windows)]()
 
-## Release (LTS)
+## Release (Beta)
 - [ ] [Mobile Platform - Android]()
 - [ ] [Mobile Platform - iOs]()
-- [ ] [Desktop Platform - Armv7 (Raspberry Pi)]()
-
-## Documentations
-lorem ipsum dolor asmet todo la ponte melegrame
-
-#### System Configuration & Setup
-- [ ] [server - database migration schema builder]()
-- [ ] [server - back office]()
-- [ ] [server - application programming interface]()
-- [ ] [server - firebase cloud messaging notification service]()
-- [ ] [raspberry device - qrcode viewer]()
+- [ ] [Desktop Platform - Armv7 (Raspbian)]()
+- [ ] [Desktop Platform - x86 (Linux)]()
+- [ ] [Desktop Platform - x86 (Windows)]()
 
 #### User Manual
 - [ ] [BackOffice]()
